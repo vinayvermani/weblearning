@@ -9,19 +9,19 @@ store the resources and supporting material for web app learning
 
 
 
-NodeJS
+## NodeJS
 
 
-ExpressJS
+## ExpressJS
 
 
-MongoDB
+## MongoDB
+little mondodb book (https://www.openmymind.net/mongodb.pdf)
+
+## Linux
 
 
-Linux
-
-
-git
+## git
 
 
 
